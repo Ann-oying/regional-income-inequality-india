@@ -33,8 +33,6 @@ All transformations were applied to address violations of **Classical Linear Reg
 
 ---
 
----
-
 ## Key Features of the Analysis
 
 ### 1. Descriptive Analysis
