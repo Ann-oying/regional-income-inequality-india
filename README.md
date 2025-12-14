@@ -15,7 +15,6 @@ All data used in this study are sourced from the **Reserve Bank of India (RBI)**
 
 - **RBI – Handbook of Statistics on Indian States (HSIS), 2022–23**
 
-The dataset covers **31 Indian states and union territories**, ensuring consistency and comparability across regions.
 
 ---
 
